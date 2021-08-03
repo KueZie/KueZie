@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### My GitHub profile, especially pinned repositories, is a place for me to show off some of my work. I mainly work on web development projects but occasionally work on robotics, graphics, and other miscellaneous topics.
 <!--
 **KueZie/KueZie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
