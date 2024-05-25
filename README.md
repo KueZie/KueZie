@@ -1,5 +1,5 @@
 ### Hi there
-#### My GitHub profile, especially pinned repositories, is a place for me to show off some of my work. I mainly work on web development and robotics projects, but dabble in various other areas of software.
+#### My GitHub profile, especially pinned repositories, is a place for me to show off some of my work. I mainly work on web development and cloud projects, but dabble in various other areas of software.
 
 #### Consider viewing my website at https://www.huntergoram.com/ for a more indepth overview about me, my skills, and resume.
 <!--
